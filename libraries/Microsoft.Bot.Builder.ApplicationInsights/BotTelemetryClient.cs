@@ -25,6 +25,7 @@ namespace Microsoft.Bot.Builder.ApplicationInsights
         }
 
         /// <summary>
+		///asdf 
         /// Send information about availability of an application.
         /// </summary>
         /// <param name="name">Availability test name.</param>
