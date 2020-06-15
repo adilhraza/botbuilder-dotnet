@@ -13,7 +13,8 @@ namespace Microsoft.Bot.Builder.Dialogs.Adaptive
     public enum ActionChangeType
     {
         /// <summary>
-        /// Add the change actions to the head of the sequence.
+        /// Add the change actio
+		/// ns to the head of the sequence.
         /// </summary>
         InsertActions,
 
